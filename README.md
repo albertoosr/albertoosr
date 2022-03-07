@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Juan Alberto</h1>
+## Hi 👋, I'm Juan Alberto
 <h3 align="center">Analyst programmer JR in eCommerce Magento</h3>
 
 <h3 align="left">Connect with me:</h3>
