@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Juan Alberto
-<h3 align="center">Analyst programmer JR in eCommerce Magento</h3>
+<h3 align="center">Magento eCommerce Developer</h3>
 
 <!--
 **albertoosr/albertoosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
