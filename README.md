@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Juan Alberto
 <h3 align="center">E-commerce Developer</h3>
-<p>Salesforce Commerce Cloud / Magento </p>
+<p aling="center">Salesforce Commerce Cloud / Magento </p>
 
 <!--
 **albertoosr/albertoosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
